@@ -1,0 +1,3 @@
+C:/Users/ALDAS/CLionProjects/AlgoritmodeOrdenacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALDAS/CLionProjects/AlgoritmodeOrdenacion/cmake-build-debug/CMakeFiles/AlgoritmodeOrdenacion.dir
+C:/Users/ALDAS/CLionProjects/AlgoritmodeOrdenacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
